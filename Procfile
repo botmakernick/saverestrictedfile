@@ -1,1 +1,1 @@
-Worker:python -m main
+Worker: python -m main
