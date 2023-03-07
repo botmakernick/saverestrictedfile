@@ -1,1 +1,1 @@
-Drone: python -m main
+Worker:python -m main
